@@ -1,3 +1,9 @@
+# Топ банков РФ и их API
+
+**Презентация:** [russian-banks-api-research.pptx](./russian-banks-api-research.pptx) (шаблон Sber CIB, 10 слайдов)
+
+---
+
 # Ресерч: топ банков РФ и их API
 
 **Дата отчёта:** 8 октября 2026  
