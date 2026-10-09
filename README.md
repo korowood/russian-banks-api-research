@@ -1,6 +1,6 @@
 # Топ банков РФ и их API
 
-**Презентация:** [russian-banks-api-research.pptx](./russian-banks-api-research.pptx) (шаблон Sber CIB, 10 слайдов)
+**Презентация:** [russian-banks-api-research.pptx](./russian-banks-api-research.pptx) — 10 слайдов, клоны реальных макетов из шаблона Sber CIB (обложка, отбивка, таблица, 4 блока, акценты)
 
 ---
 
